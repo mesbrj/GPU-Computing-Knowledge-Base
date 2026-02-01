@@ -27,7 +27,7 @@
 
 ### **Pre-requisites for local development**:
 - *NVIDIA Driver installed on Windows host machine*
-- ***NVIDIA CUDA Toolkit (SDK)*** installed in WSL2 Ubuntu 24.04.3 LTS*
+- ***NVIDIA CUDA Toolkit (SDK)*** installed in WSL2 Ubuntu 24.04.3 LTS
 
 `numba-cuda`, `cuda-python`, `CuPy`, `RAPIDS` and `PyTorch` will be installed via pip to always use the CUDA toolkit SDK installed globally to build and run your libraries.
 ```bash
